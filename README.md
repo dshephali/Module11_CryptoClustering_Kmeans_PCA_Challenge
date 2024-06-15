@@ -4,6 +4,7 @@ In this challenge we classified crypto currencies according to price changes wit
 
 Authors & Citation
 
+Shephali Dubey
 Alberto Aigner's feedback for a couple of errors
 
 Summary
